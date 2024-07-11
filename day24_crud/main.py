@@ -15,11 +15,14 @@ def run_crud():
         contiunee = create_student()
         run_crud() if contiunee else exit_from_crud()
     elif choice.lower() == "r":
-        read_student()
+        read_more = read_student()
+        run_crud() if read_more else exit_from_crud()
     elif choice.lower() == "u":
-        update_student()
+        udate_more = update_student()
+        run_crud() if udate_more else exit_from_crud()
     elif choice.lower() == "d":
-        delete_student()
+        delete_more = delete_student()
+        run_crud() if delete_more else exit_from_crud()
     else:
         exit_from_crud()
 
