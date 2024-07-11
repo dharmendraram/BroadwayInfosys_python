@@ -1,0 +1,27 @@
+[
+  {
+    "id": "1001",
+    "name": "Jon",
+    "age": "30",
+    "address": "KTM"
+  },
+  {
+    "id": "1002",
+    "name": "Ram",
+    "age": "40",
+    "address": "BKT"
+  },
+  {
+    "id": "1003",
+    "name": "Jain",
+    "age": "60",
+    "address": "PKR"
+  },
+  {
+    "id": "1004",
+    "name": "Ganga",
+    "age": 50,
+    "address": "Balkumari"
+  }
+
+]

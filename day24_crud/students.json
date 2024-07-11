@@ -4,5 +4,17 @@
     "name": "Jone",
     "age": "30",
     "address": "KTM"
+  },
+  {
+    "id": "1003",
+    "name": "Ram",
+    "age": "40",
+    "address": "Balkumari"
+  },
+  {
+    "id": "1005",
+    "name": "Rahul",
+    "age": "60",
+    "address": "BTH"
   }
 ]
