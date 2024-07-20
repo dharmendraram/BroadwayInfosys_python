@@ -6,3 +6,5 @@ Which of the following data type is mutable?
 3. Set
 4. Tuple
 """
+
+# ans = set
